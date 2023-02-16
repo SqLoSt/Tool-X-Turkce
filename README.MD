@@ -61,7 +61,7 @@ kurulum tamamlandıktan sonra istediğiniz gibi kullanabilirsiniz.
 - x yazar iseniz Tool Kapanır.
 ```
 ### iletişim bilgileri :
-- ***Sqlost#8883*** - Discord , Hesap kapanmış olabilir.
+- ***SqLoSt#6660*** - Discord , Hesap kapanmış olabilir.
 - **Genel [discord sunucumuz](https://discord.gg/fXJgZVGbE6)**
 - **Bizim [Youtube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw) kanalımız**
 
