@@ -60,8 +60,8 @@ kurulum tamamlandıktan sonra istediğiniz gibi kullanabilirsiniz.
 - 4 yazar iseniz Bilgilendirme yapar [yapımcı hakkinda](https://github.com/ekadanuarta/Tool-X) bilgi verir.
 - x yazar iseniz Tool Kapanır.
 ```
-### iletişim bilgileri :
-- ***SqLoSt#6660*** - Discord , Hesap kapanmış olabilir.
-- **Genel [discord sunucumuz](https://discord.gg/fXJgZVGbE6)**
-- **Bizim [Youtube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw) kanalımız**
+#### ☕ | Contact us!
+- ***SqLoSt#6660*** - Discord May be  Closed , preferred option
+- **Our [discord server](https://discord.gg/aV2XGhRvup)** 
+- **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
